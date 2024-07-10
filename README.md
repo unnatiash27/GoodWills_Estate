@@ -19,12 +19,12 @@ A basic understanding of JavaScript and React is recommended, but if you're eage
 
 ## 🎓 Getting Started
 
-  Clone the Repository
-   git clone 
-   cd GoodWills_Estate
-   npm install
-   Create a .env file in the root directory and add the necessary environment variables. Refer to .env.example for a sample.
-   Run the Application
+  -Clone the Repository
+  - git clone 
+  - cd GoodWills_Estate
+   -npm install
+   -Create a .env file in the root directory and add the necessary environment variables. Refer to .env.example for a sample.
+   -Run the Application
 
 💬 Contact
 For any questions or feedback, feel free to open an issue on the repository or contact [your email].
