@@ -5,8 +5,7 @@ export default {
     extend: {},
   },
   plugins: [
-    // Remove the line below as the line-clamp plugin is included by default in Tailwind CSS v3.3
-    // require('@tailwindcss/line-clamp'),
+    require('@tailwindcss/line-clamp'),
     // ...
   ],
 };
