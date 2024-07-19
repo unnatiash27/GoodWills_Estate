@@ -5,7 +5,7 @@ import SignUp from './pages/SignUp';
 import About from './pages/About';
 import Profile from './pages/Profile';
 import Header from './components/Header';
-import CreateListing from './pages/CreateListing';
+import CreateListing from '@/pages/CreateListing.jsx'; // Use alias if configured
 import PrivateRoute from './components/PrivateRoute';
 import UpdateListing from './pages/UpdateListing';
 import Listing from './pages/Listing';
